@@ -1,0 +1,11 @@
+Austin 182
+Charlotte 929
+SanFrancisco 1230
+LosAngeles 1100
+NewYork 1368
+Chicago 800
+Seattle 1670
+SantaFe 560
+Bakersville 1282
+Boston 1551
+Dallas 0
